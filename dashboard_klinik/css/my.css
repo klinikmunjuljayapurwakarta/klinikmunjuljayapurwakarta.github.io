@@ -1,0 +1,17 @@
+#klinik {
+	border-style: solid;
+}
+
+#munjul {
+	border-style: dashed;
+}
+
+#img {
+	size: landscape;
+}
+
+body {
+	background-image: black;
+	background-repeat: no-repeat;
+      background-size: cover;
+}
